@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Project Tracking/11-08-2021.md",
+            "file": "Project Tracking/12-06-21.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b570da50e76dc8a",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Tracking/11-08-2021.md",
+                "file": "Project Tracking/12-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,23 +85,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Tracking/11-08-2021.md"
+                "file": "Project Tracking/12-06-21.md"
               }
             }
           },
           {
-            "id": "f1527d47d7b61596",
+            "id": "783bd2f9ada7cef1",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1dae2dd4b4a3076b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -111,10 +102,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "active": "d33d6a0143b5e37b",
   "lastOpenFiles": [
+    "Project Tracking/12-06-21.md",
     "Project Tracking/11-08-2021.md",
     "Untitled.md",
     "2021-11-03.md",
